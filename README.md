@@ -17,14 +17,14 @@ This repository contains the FIMserv Python framework, example dataset, and nece
 [For more information, refer to the original GitHub page of FIMserv](https://github.com/sdmlua/FIMserv)
 
 # Installation (*for macOS/Windows)
-1)Install Anaconda 
-2) Right click on the shared CIROH-DEVCON folder and go to ‘New Terminal at Folder ’ (* use Anaconda prompt for Windows)
-3) Create a virtual environment : conda create --name cirohdevcon python==3.10
-4)Activate the environment: conda activate cirohdevcon
-5)Install FIMserve from the activated enviroment  : pip install fimserve 
-6) Install Jupyter Notebook from teh activated enviroment : pip install jupyter notebook
-7) Upload Fimserve.ipynb in the Notebook
-(* user can choose to install fimserve after launching the notebook) 
+1) Install Anaconda
+2) Right-click on the shared CIROH-DEVCON folder and select ‘New Terminal at Folder’ (or use **Anaconda Prompt** on Windows)
+3) conda create --name cirohdevcon python==3.10
+4) conda activate cirohdevcon
+5) pip install fimserve
+6) pip install jupyter notebook
+7) Launch Jupyter Notebook and upload **Fimserve.ipynb**
+(* Alternatively, you can install `fimserve` after launching the notebook)
 
 # In case of any installation problem in Local machine, User can us ethe Google Colab version of FIMserve
 
