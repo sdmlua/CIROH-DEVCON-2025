@@ -14,6 +14,9 @@ In this work, we present the OWP HAND-FIM ‘as a service’ (FIMserv), an open-
 10.	Inclusion of daily discharge from the Group on Earth Observations Global Water Sustainability (GeoGLOWS) for FIM generation.
 11.	 Automatic FIM generation using USGS discharge data.
 
+[For more information, refer to the original GitHub page of FIMserv](https://github.com/sdmlua/FIMserv)
+
+
 
 **FIMserv in Google Colab** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pXWiFKi_vWEq1jxfmFuXVYfDMmfXu0r2)
 
