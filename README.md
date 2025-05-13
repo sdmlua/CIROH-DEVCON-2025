@@ -26,7 +26,7 @@ This repository contains the FIMserv Python framework, example dataset, and nece
 7) Launch Jupyter Notebook and upload **Fimserve.ipynb**
 (* Alternatively, you can install `fimserve` after launching the notebook)
 
-# In case of any installation problem in Local machine, User can us ethe Google Colab version of FIMserve
+# In case of any installation problem in Local machine, User can use the Google Colab version of FIMserve
 
 **FIMserv in Google Colab** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pXWiFKi_vWEq1jxfmFuXVYfDMmfXu0r2)
 
