@@ -15,7 +15,7 @@ In the workshop, We will demonstrate the following functionalities in the worksh
 
 [For more information, refer to the original GitHub page of FIMserv](https://github.com/sdmlua/FIMserv).
 
-***This repository contains the FIMserv Python framework, example dataset, and installation information for the participants of CIROH-DEVCON-2025. We have also attached the pre-print of our manuscript (currently under review) where we discussed in detail about the developed modules and their applications.***
+***This repository contains the FIMserv Python framework, example dataset, and installation instruction for the participants of CIROH-DEVCON-2025. We have also attached the pre-print of our manuscript (currently under review) where we discussed in detail about the developed modules and their applications.***
 
 # Installation (*for macOS/Windows)
 1) Install Anaconda
@@ -27,12 +27,10 @@ In the workshop, We will demonstrate the following functionalities in the worksh
 7) Launch Jupyter Notebook from the terminal and upload **FIMserve.ipynb**
 (* You can do`pip install fimserve` after launching the notebook)
 
-***We will use the Jupyter Notebook for demonstration, but user can choose VS code as well***
-
 # In case of any installation problem in Local machine, User can use the Google Colab version of FIMserve
 
 **FIMserv in Google Colab** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pXWiFKi_vWEq1jxfmFuXVYfDMmfXu0r2)
 
-***Install QGIS/ARCGIS to visualize the flood raster. Notebook also provides the visualization capability, to use that user shoud have a valid Google Earth Engine Proect ID**
+***Install QGIS/ARCGIS to visualize the flood raster. The Notebook also provides the visualization capability, to use that user shoud have a valid Google Earth Engine Proect ID**
 
 For any queries, rerach out to : abaruah@ua.edu, sdhital@crimson.ua.edu
