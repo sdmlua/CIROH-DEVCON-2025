@@ -18,12 +18,12 @@ In this work, we present the OWP HAND-FIM ‘as a service’ (FIMserv), an open-
 # Installation (*for macOS/Windows)
 1) Install Anaconda
 2) Right-click on the shared CIROH-DEVCON folder and select ‘New Terminal at Folder’ (or use **Anaconda Prompt** on Windows)
-3) Crete a virtual enviroment from the terminal: * conda create --name cirohdevcon python==3.10
-4) Activate the virtual enviroment : *conda activate cirohdevcon*
-5) Install the package from terminal : *pip install fimserve*
-6) Install the notebook : *pip install jupyter notebook*
-7) Launch Jupyter Notebook and upload **Fimserve.ipynb**
-(* Alternatively, you can install `fimserve` after launching the notebook)
+3) Crete a virtual enviroment from the terminal: ***conda create --name cirohdevcon python==3.10***
+4) Activate the virtual enviroment : ***conda activate cirohdevcon***
+5) Install the package from terminal : ***pip install fimserve***
+6) Install the notebook : ***pip install jupyter notebook***
+7) Launch Jupyter Notebook and upload **FIMserve.ipynb**
+(* Alternatively, you can do`pip install fimserve` after launching the notebook)
 
 # In case of any installation problem in Local machine, User can use the Google Colab version of FIMserve
 
