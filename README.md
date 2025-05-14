@@ -27,11 +27,12 @@ In the workshop, We will demonstrate the following functionalities--
 7) Launch Jupyter Notebook from the terminal and upload **FIMserve.ipynb**
 (* You can do`pip install fimserve` after launching the notebook)
 
+***We will use the Jupyter Notebook for demonstration, but user can choose VS code as well***
+
 # In case of any installation problem in Local machine, User can use the Google Colab version of FIMserve
 
 **FIMserv in Google Colab** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pXWiFKi_vWEq1jxfmFuXVYfDMmfXu0r2)
 
-***Install QGIS/ARCGIS to visualize the flood raster***
-***Notebook also provides the visualization capability. To use that user shoud have a valid Google Earth Engine Proect ID**
+***Install QGIS/ARCGIS to visualize the flood raster. Notebook also provides the visualization capability, to use that user shoud have a valid Google Earth Engine Proect ID**
 
 For any queries, rerach out to : abaruah@ua.edu, sdhital@crimson.ua.edu
