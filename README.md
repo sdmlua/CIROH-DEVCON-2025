@@ -29,5 +29,6 @@ In this work, we present the OWP HAND-FIM ‘as a service’ (FIMserv), an open-
 
 **FIMserv in Google Colab** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pXWiFKi_vWEq1jxfmFuXVYfDMmfXu0r2)
 
+***Install QGIS/ARCGIS to visualize the flood raster***
 
 For any queries, rerach out to : abaruah@ua.edu, sdhital@crimson.ua.edu
