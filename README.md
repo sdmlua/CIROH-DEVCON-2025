@@ -15,7 +15,7 @@ In the workshop, We will demonstrate the following functionalities--
 
 [For more information, refer to the original GitHub page of FIMserv](https://github.com/sdmlua/FIMserv).
 
-***This repository contains the FIMserv Python framework, example dataset, and installation information for the participants of CIROH-DEVCON-2025. We have also attached the pre-print of our manuscript (currently under review) where we discussed in detail about the the developed modules and their applications.***
+***This repository contains the FIMserv Python framework, example dataset, and installation information for the participants of CIROH-DEVCON-2025. We have also attached the pre-print of our manuscript (currently under review) where we discussed in detail about the developed modules and their applications.***
 
 # Installation (*for macOS/Windows)
 1) Install Anaconda
