@@ -19,7 +19,7 @@ In the workshop, We will demonstrate the following functionalities--
 
 # Installation (*for macOS/Windows)
 1) Install Anaconda
-2) Right-click on the shared CIROH-DEVCON folder and select ‘New Terminal at Folder’ (use **Anaconda Prompt** on Windows)
+2) Right-click on the shared CIROH-DEVCON folder (CIROH-DEVCON.zip)and select ‘New Terminal at Folder’ (use **Anaconda Prompt** on Windows)
 3) Crete a virtual enviroment from the terminal: ***conda create --name cirohdevcon python==3.10***
 4) Activate the virtual enviroment : ***conda activate cirohdevcon***
 5) Install the package from terminal : ***pip install fimserve***
