@@ -1,6 +1,6 @@
 # FIMserv v.1.0: A Tool for Streamlining Flood Inundation Mapping Using the United States Operational Hydrological Forecasting Framework
 
-We have developed the OWP HAND-FIM ‘as a service’ (FIMserv), an open-source Python toolset for running the FIM generation procedures using NWM operational input data. This approach leverages virtual .env files to define essential environment variables, such as input and output directories for the OWP HAND-FIM’s FIM generation module. By replicating Docker’s role in environment configuration in a simplified manner, this method bypasses containerization while maintaining a consistent and portable setup. The script dynamically adjusts to the local system’s structure, ensuring dependencies and file paths are properly aligned for successful execution. 
+We have developed the OWP HAND-FIM ‘as a service’ (FIMserv), an open-source Python toolset for running the FIM generation procedures using NWM operational input data.By replicating Docker’s role in environment configuration in a simplified manner, this method bypasses containerization while maintaining a consistent and portable setup. The script dynamically adjusts to the local system’s structure, ensuring dependencies and file paths are properly aligned for successful execution. 
 In the workshop, We will demonstrate the following functionalities--
 1.	User-friendly and customizable notebook interface
 2.	Embedded visualization
